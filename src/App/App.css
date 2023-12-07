@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+/* My Style */
+.movie-card-container{
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 10px;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.NavBar{
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+  justify-content: space-around;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}

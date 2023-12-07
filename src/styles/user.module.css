@@ -1,0 +1,16 @@
+/* backgroundColor:"violet" ,color:'white' ,margin:"10px auto"
+ */
+ .user{
+    background-color: violet;
+    color: white;
+    margin: 10px auto;
+ }
+
+ /* .btn{
+    background-color: blue;
+ } */
+
+ #btn{
+   background-color: blue;
+ }
+ 
